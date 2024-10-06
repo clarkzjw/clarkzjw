@@ -12,6 +12,7 @@ PGP Fingerprint - <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/B878C3
 
 ## Some side projects
 <pre style='font-size: 9pt'>
+Overview of LEO-related research                   - <a href="https://oac.uvic.ca/starlink/" target="_blank">https://oac.uvic.ca/starlink/</a>
 LENS: A LEO Satellite Network Measurement Dataset  - <a href="https://github.com/clarkzjw/LENS", target="_blank">https://github.com/clarkzjw/LENS</a>
 Starlink GeoIP Map Visualization                   - <a href="https://github.com/clarkzjw/starlink-geoip", target="_blank">https://github.com/clarkzjw/starlink-geoip</a>
 Starlink GeoIP Data Snapshots                      - <a href="https://github.com/clarkzjw/starlink-geoip-data", target="_blank">https://github.com/clarkzjw/starlink-geoip-data</a>
