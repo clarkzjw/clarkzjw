@@ -21,4 +21,4 @@ Starlink gRPC protobuf API for Golang              - <a href="https://github.com
 Starlink Prometheus Exporter                       - <a href="https://github.com/clarkzjw/starlink_exporter", target="_blank">https://github.com/clarkzjw/starlink_exporter</a>
 </pre>
 
-[![](https://github.com/clarkzjw/clarkzjw/blob/master/geoip.png?raw=true)](https://pan.uvic.ca/~clarkzjw/starlink)
+[![](https://github.com/clarkzjw/clarkzjw/blob/master/geoip.jpg?raw=true)](https://pan.uvic.ca/~clarkzjw/starlink)
