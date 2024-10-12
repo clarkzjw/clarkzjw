@@ -1,5 +1,4 @@
 ## About 
-![](https://komarev.com/ghpvc/?username=clarkzjw) (Since 2024/10/10)
 
 ![](./github-metrics.svg)
 
