@@ -1,7 +1,7 @@
 ## About 
 ![](https://komarev.com/ghpvc/?username=clarkzjw)
 
-![](./github-metrics.svg)
+![](./github-metrics.svg) (Since 2024/10/10)
 
 <pre style='font-size: 9pt'>
            Blog - <a href="https://jinwei.me" target
