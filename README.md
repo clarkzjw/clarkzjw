@@ -5,7 +5,6 @@
 <pre style='font-size: 9pt'>
            Blog - <a href="https://jinwei.me" target
 ="_blank">https://jinwei.me</a>
-           CGit - <a href="https://cgit.jinwei.me" target="_blank">https://cgit.jinwei.me</a>
           Photo - <a href="https://photo.jinwei.me" target="_blank">https://photo.jinwei.me</a>
        Telegram - <a href="https://t.me/clarkzjw" target="_blank">@clarkzjw</a>
       Portfolio - <a href="https://pan.uvic.ca/~clarkzjw/" target="_blank">https://pan.uvic.ca/~clarkzjw/</a>
@@ -24,6 +23,7 @@ Starlink latency and global backbone measurement   - <a href="https://github.com
 Starlink gRPC protobuf API for Golang              - <a href="https://github.com/clarkzjw/starlink-grpc-golang", target="_blank">https://github.com/clarkzjw/starlink-grpc-golang</a>
 Starlink Prometheus Exporter                       - <a href="https://github.com/clarkzjw/starlink_exporter", target="_blank">https://github.com/clarkzjw/starlink_exporter</a>
 </pre>
+
 
 <a href="https://pan.uvic.ca/~clarkzjw/starlink" target="_blank"><img alt="Starlink GeoIP Map" src="https://github.com/clarkzjw/clarkzjw/blob/master/geoip.jpg?raw=true" width="500"></a>
 <a href="https://tinyurl.com/onewebmap" target="_blank"><img alt="OneWeb SNP/PoP Map" src="https://github.com/clarkzjw/clarkzjw/blob/master/oneweb-snp-pop.png?raw=true" width="500"></a>
