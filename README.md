@@ -28,3 +28,4 @@ Starlink Prometheus Exporter                       - <a href="https://github.com
 <a href="https://pan.uvic.ca/~clarkzjw/starlink" target="_blank"><img alt="Starlink GeoIP Map" src="https://github.com/clarkzjw/clarkzjw/blob/master/geoip.jpg?raw=true" width="500"></a>
 <a href="https://tinyurl.com/onewebmap" target="_blank"><img alt="OneWeb SNP/PoP Map" src="https://github.com/clarkzjw/clarkzjw/blob/master/oneweb-snp-pop.png?raw=true" width="500"></a>
 <a href="https://oac.uvic.ca/cccleo" target="_blank"><img alt="CCCLEO Testbed" src="https://cccleo-grafana-image-proxy.jinwei.me/render?endpoint=DishLocationMapWorld" width="500"></a>
+<a href="https://oac.uvic.ca/cccleo" target="_blank"><img alt="CCCLEO Testbed Dashboard" src="https://cccleo-grafana-image-proxy.jinwei.me/render?endpoint=FullDashboardWorld" width="500"></a>
